@@ -1,6 +1,6 @@
 <!--  -->
 <template>
-  <div class='feature'>
+  <div class='feature-view'>
     <a href="https://act.mogujie.com/zzlx67">
       <img src="~assets/img/home/recommend_bg.jpg" alt="">
     </a>
@@ -14,7 +14,7 @@
 </script>
 
 <style scoped>
-  .feature img {
+  .feature-view img {
     width: 100%;
   }
 </style>
